@@ -1,2 +1,0 @@
-# WDI-101
-WDI 101 Stuff
